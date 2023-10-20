@@ -1,5 +1,5 @@
 # 💫 About Me:
-#> GithubProfileTest
+#> Soy un desarrollador de software de reciente incorporación. Estoy aprendiendo las bases de la programación en C# y Python
 
 
 ## 🌐 Socials:
