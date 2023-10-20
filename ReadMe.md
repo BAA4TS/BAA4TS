@@ -1,5 +1,5 @@
 # 💫 About Me:
-#> C#<br>#> Python <br><br><br>I'm New
+#> GithubProfileTest
 
 
 ## 🌐 Socials:
