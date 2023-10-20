@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![imagen](imagne_git/git.png)
+
 #> Soy un desarrollador de software de reciente incorporación. Estoy aprendiendo las bases de la programación en C# y Python
 
 
