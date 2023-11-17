@@ -1,4 +1,4 @@
-![imagen](wall/git.png)
+![imagen](wall/git.jpg)
 # 💫 About Me:
 #> Soy un desarrollador de software de reciente incorporación. Estoy aprendiendo las bases de la programación en C# y Python
 
