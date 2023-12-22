@@ -12,7 +12,7 @@
 
 * **SMS-PUFF:** App de SMS Anonimo (desarrollado en [C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white), disponible en [github.com][(BAA4TS/SMS-PUFF-](https://github.com/BAA4TS/SMS-PUFF-)))
 
-* **serch-:** Buscador de archibos, escrito en [Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (disponible en [github.com][(BAA4TS/SMS-PUFF-](https://github.com/BAA4TS/serch-)
+* **serch-:** Buscador de archibos, escrito en [Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (disponible en [github.com][(BAA4TS/SMS-PUFF-](https://github.com/BAA4TS/serch-))
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BAA4TS&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
