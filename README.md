@@ -1,9 +1,3 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block; color: red">Hi 👋, I'm <span style="color: blue">Carlos</span></h1></summary>
-  </ul>
-</div>
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/BAA4TS/BAA4TS/blob/main/src/banner.png" alt="Banner">
