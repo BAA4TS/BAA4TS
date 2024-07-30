@@ -1,16 +1,45 @@
-## Hi there 👋
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: red">Hi 👋, I'm <span style="color: blue">Carlos</span></h1></summary>
+  </ul>
+</div>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/BAA4TS/BAA4TS/blob/main/src/banner.png" alt="Banner">
+</p>
 
-<!--
-**BAA4TS/BAA4TS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Frontend</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,wordpress&perline=6" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Backend</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,flask&perline=3" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Databases</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" />
+  </a>
+</p>
+
+<h2 align="center">Seguridad</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py&perline=2" />
+  </a>
+</p>
+
+<h2 align="center">Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,gulp&perline=3" />
+  </a>
+</p>
