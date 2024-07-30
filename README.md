@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  ¡Hola! Soy Carlos, también conocido como BAA4TS entre amigos. Soy un apasionado de la programación con un enfoque particular en Python, PHP y C++. Estos lenguajes son mis favoritos, y disfruto trabajando en proyectos que me permitan profundizar en ellos.
+  ¡Hola! Soy Carlos, también conocido como BAA4TS entre amigos. Soy un apasionado de la programación con un enfoque particular en Python, PHP y C++. Estos lenguajes son mis favoritos, y disfruto trabajando en proyectos personales que me permiten profundizar y aprender poco a poco.
 </p>
 
 <h2 align="center">Frontend</h2>
