@@ -16,7 +16,7 @@
 
 <h2 align="center">Extras</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=thunderclient,tableplus&perline=2" alt="Extras"/>
-  </a>
+  - Thunder Client
+  <br>
+  - Table Plus
 </p>
