@@ -28,16 +28,16 @@
   </a>
 </p>
 
-<h2 align="center">Seguridad</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py&perline=2" alt="Security Skills"/>
-  </a>
-</p>
-
 <h2 align="center">Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,gulp&perline=3" alt="Tools"/>
+  </a>
+</p>
+
+<h2 align="center">Others</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=thunderclient,tableplus&perline=2" alt="Others"/>
   </a>
 </p>
