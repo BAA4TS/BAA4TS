@@ -20,30 +20,43 @@
   <br>
   - Table Plus
 </p>
+
 <h2 align="center">Recursos Gratuitos</h2>
 <p align="center">
   Aquí hay una lista de servicios gratuitos que puedes utilizar para aprender y desarrollar tus proyectos:
 </p>
 
-- **[Aiven](https://aiven.io/pricing?product=mysql)**
-  - Opciones gratuitas disponibles para aplicaciones pequeñas o para empezar.
-  - 1 VM dedicada.
-  - 1 CPU por VM.
-  - 1 GB RAM por VM.
-  - 5 GB de almacenamiento total.
-  - Opciones de bases de datos: PostgreSQL y MySQL.
-
-- **[InfinityFree](https://www.infinityfree.net)**
-  - Hosting gratuito con soporte para PHP y MySQL.
-  - Características:
-    - 5 GB de espacio en disco.
-    - Ancho de banda ilimitado.
-    - PHP 8.2.
-    - MySQL 5.7 / MariaDB 10.4.
-    - Nombres de subdominios gratuitos.
-    - Posibilidad de usar tu propio dominio.
-    - 400 bases de datos MySQL.
-    - Servicio DNS gratuito.
-    - Certificados SSL gratuitos.
-    - Soporte completo para .htaccess.
-    - Compatible con WordPress.
+<ul>
+  <li>
+    <strong><a href="https://aiven.io/pricing?product=mysql">Aiven</a></strong>
+    <ul>
+      <li>Servicio de base de datos externo</li>
+      <li>Opciones gratuitas disponibles para aplicaciones pequeñas o para empezar</li>
+      <li>1 VM dedicada</li>
+      <li>1 CPU por VM</li>
+      <li>1 GB RAM por VM</li>
+      <li>5 GB de almacenamiento total</li>
+      <li>Opciones de bases de datos: PostgreSQL y MySQL</li>
+    </ul>
+  </li>
+  <li>
+    <strong><a href="https://www.infinityfree.net">InfinityFree</a></strong>
+    <ul>
+      <li>Hosting gratuito con soporte para PHP y MySQL</li>
+      <li>Características:</li>
+      <ul>
+        <li>5 GB de espacio en disco</li>
+        <li>Ancho de banda ilimitado</li>
+        <li>PHP 8.2</li>
+        <li>MySQL 5.7 / MariaDB 10.4</li>
+        <li>Nombres de subdominios gratuitos</li>
+        <li>Posibilidad de usar tu propio dominio</li>
+        <li>400 bases de datos MySQL</li>
+        <li>Servicio DNS gratuito</li>
+        <li>Certificados SSL gratuitos</li>
+        <li>Soporte completo para .htaccess</li>
+        <li>Compatible con WordPress</li>
+      </ul>
+    </ul>
+  </li>
+</ul>
