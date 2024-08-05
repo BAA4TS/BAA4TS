@@ -7,6 +7,19 @@
   ¡Hola! Soy Carlos, también conocido como BAA4TS entre amigos. Soy un apasionado de la programación con un enfoque particular en Python, PHP y C++. Disfruto trabajando en proyectos personales que me permiten profundizar y aprender poco a poco.
 </p>
 
+<h2 align="center">Habilidades</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,wordpress,php,py,flask,mysql,sqlite,cpp,github,vscode,gulp&perline=6" alt="Skills"/>
+  </a>
+</p>
+
+<h2 align="center">Herramientas Adicionales</h2>
+<p align="center">
+  - Thunder Client
+  <br>
+  - Table Plus
+</p>
 <h2 align="center">Recursos Gratuitos</h2>
 <p align="center">
   Aquí hay una lista de servicios gratuitos que puedes utilizar para aprender y desarrollar tus proyectos:
@@ -34,17 +47,3 @@
     - Certificados SSL gratuitos.
     - Soporte completo para .htaccess.
     - Compatible con WordPress.
-
-<h2 align="center">Habilidades</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,wordpress,php,py,flask,mysql,sqlite,cpp,github,vscode,gulp&perline=6" alt="Skills"/>
-  </a>
-</p>
-
-<h2 align="center">Herramientas Adicionales</h2>
-<p align="center">
-  - Thunder Client
-  <br>
-  - Table Plus
-</p>
